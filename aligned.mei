@@ -158,7 +158,9 @@
 						<pb/>
 						<measure label="1" n="1" xml:id="measure_d6d8a0ed-a6f2-4147-828a-3ab85a0a27ea">
 							<staff facs="#zone_2cb1fbc0-4e86-445c-b3c9-80863311af55" label="1" n="1" xml:id="staff_812704a9-2443-461e-b51d-4ae0795f7072">
-								<layer/>
+								<layer>
+									<clef line="2" shape="G"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_a3bfad4b-852d-4183-b2b5-84d685920256" label="2" n="2" xml:id="staff_f772627f-fa79-467e-8eeb-d756408552b8">
 								<layer>
