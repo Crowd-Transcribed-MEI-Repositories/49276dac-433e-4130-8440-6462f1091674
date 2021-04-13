@@ -356,7 +356,9 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_66512d3f-768c-4b04-9704-4a8536c7f585" label="6" n="6" xml:id="staff_3317e8e1-8e5b-43c0-a8e5-75300ea28a04">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="1"/>
+								</layer>
 							</staff>
 						</measure>
 						<scoreDef>
