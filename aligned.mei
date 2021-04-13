@@ -260,7 +260,19 @@
 						</scoreDef>
 						<measure label="3" n="3" xml:id="measure_569b7363-b3db-492a-9bc0-977570d78294">
 							<staff facs="#zone_80ce0d22-367a-4c83-b024-d79ad1203f8f" label="1" n="1" xml:id="staff_2ca1f5c1-32b3-4b51-9d2c-04de00cf19c9">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="8"/>
+									<beam>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+									</beam>
+									<beam>
+										<note dots="1" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="16" oct="5" pname="f"/>
+									</beam>
+									<note dots="0" dur="4" oct="5" pname="f"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_bdd8a567-66c8-41ee-9872-317c2bcc1f20" label="2" n="2" xml:id="staff_464be95c-0a1c-4090-85fd-4d6cad33a432">
 								<layer>
