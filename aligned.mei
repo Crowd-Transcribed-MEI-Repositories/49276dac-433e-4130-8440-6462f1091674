@@ -491,15 +491,15 @@
 								<layer>
 									<rest dots="0" dur="8"/>
 									<beam>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="4" pname="f"/>
+										<note dots="0" dur="8" oct="4" pname="g"/>
+										<note dots="0" dur="8" oct="4" pname="a"/>
 									</beam>
 									<beam>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="4" pname="b"/>
+										<note dots="0" dur="8" oct="5" pname="c"/>
+										<note dots="0" dur="8" oct="5" pname="d"/>
+										<note dots="0" dur="8" oct="5" pname="c"/>
 									</beam>
 								</layer>
 							</staff>
