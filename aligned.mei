@@ -586,16 +586,16 @@
 							<staff facs="#zone_12b6ab10-c1fa-4bb2-b22e-a9ae8f98181f" label="3" n="3" xml:id="staff_27eea4bb-f4b2-4420-b774-665d421f14ea">
 								<layer>
 									<beam>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="4" pname="b"/>
+										<note dots="0" dur="8" oct="5" pname="c"/>
+										<note accid="f" dots="0" dur="8" oct="5" pname="d"/>
+										<note dots="0" dur="8" oct="5" pname="c"/>
 									</beam>
 									<beam>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note accid="n" dots="0" dur="8" oct="4" pname="b"/>
+										<note dots="0" dur="8" oct="5" pname="c"/>
+										<note accid="n" dots="0" dur="8" oct="5" pname="d"/>
+										<note dots="0" dur="8" oct="4" pname="b"/>
 									</beam>
 								</layer>
 							</staff>
