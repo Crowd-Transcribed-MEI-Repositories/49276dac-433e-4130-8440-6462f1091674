@@ -465,13 +465,13 @@
 								<layer>
 									<rest dots="0" dur="8"/>
 									<beam>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="6" pname="g"/>
+										<note dots="0" dur="8" oct="6" pname="f"/>
+										<note dots="0" dur="8" oct="6" pname="e"/>
 									</beam>
-									<note dots="0" dur="8" oct="5" pname="f"/>
-									<note dots="0" dur="4" oct="5" pname="f"/>
-									<note dots="0" dur="8" oct="5" pname="f"/>
+									<note dots="0" dur="8" oct="6" pname="d"/>
+									<note dots="0" dur="4" oct="6" pname="d"/>
+									<note dots="0" dur="8" oct="6" pname="d"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_05b34a62-7f58-4d7d-ac69-6f5f4fb1fb16" label="2" n="2" xml:id="staff_94bb0ec3-f50c-4e38-bc54-60a374879ed8">
