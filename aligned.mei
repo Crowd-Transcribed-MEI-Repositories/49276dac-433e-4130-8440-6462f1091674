@@ -438,7 +438,9 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_44538723-32ab-4cb7-bf2a-731462325355" label="6" n="6" xml:id="staff_1832dd14-c067-4f69-9d40-3004112ea0a0">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="1"/>
+								</layer>
 							</staff>
 						</measure>
 						<scoreDef>
