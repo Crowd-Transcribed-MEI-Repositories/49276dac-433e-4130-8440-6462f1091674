@@ -161,7 +161,7 @@
 								<staffDef meter.sym="common" n="5"/>
 								<staffDef meter.sym="common" n="4"/>
 								<staffDef meter.sym="common" n="3"/>
-								<staffDef meter.sym="common" n="1"/>
+								<staffDef key.sig="1f" meter.sym="common" n="1"/>
 								<staffDef n="2"/>
 							</staffGrp>
 						</scoreDef>
