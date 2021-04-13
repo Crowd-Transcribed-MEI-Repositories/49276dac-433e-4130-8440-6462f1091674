@@ -190,6 +190,12 @@
 							<staff facs="#zone_c8b4c1ea-4b5f-41be-a305-94b118c8f74d" label="3" n="3" xml:id="staff_53d2c4f6-7efa-4c44-b806-b28bc36eea2c">
 								<layer>
 									<clef line="4" shape="F"/>
+									<note dots="0" dur="4" oct="5" pname="f"/>
+									<beam>
+										<note dots="1" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="16" oct="5" pname="f"/>
+									</beam>
+									<note dots="0" dur="2" oct="5" pname="f"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_d7ad673c-6a0e-48fe-b7a5-32fb764d6293" label="4" n="4" xml:id="staff_38a4748c-2b49-454d-a6be-84ecda8e0fb5">
