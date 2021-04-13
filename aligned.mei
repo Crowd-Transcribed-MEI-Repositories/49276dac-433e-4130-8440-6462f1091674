@@ -207,12 +207,12 @@
 							</staff>
 							<staff facs="#zone_62b0e6e1-531f-4779-b55a-a476bf3c2da9" label="5" n="5" xml:id="staff_6f9f2128-1a8e-446f-9e3c-487cbd02b05c">
 								<layer>
-									<note dots="0" dur="4" oct="5" pname="f"/>
+									<note dots="0" dur="4" oct="5" pname="c"/>
 									<beam>
-										<note dots="1" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="16" oct="5" pname="f"/>
+										<note dots="1" dur="8" oct="4" pname="g"/>
+										<note dots="0" dur="16" oct="5" pname="c"/>
 									</beam>
-									<note dots="0" dur="2" oct="5" pname="f"/>
+									<note dots="0" dur="2" oct="5" pname="e"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_51ee7c1b-4978-410a-ab5f-67300cedef68" label="6" n="6" xml:id="staff_d079356c-0ba1-41b7-8f34-a7927dc6769d">
