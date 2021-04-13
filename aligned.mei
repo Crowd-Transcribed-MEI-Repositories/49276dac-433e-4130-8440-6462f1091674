@@ -377,7 +377,17 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_05b34a62-7f58-4d7d-ac69-6f5f4fb1fb16" label="2" n="2" xml:id="staff_94bb0ec3-f50c-4e38-bc54-60a374879ed8">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="8"/>
+									<beam>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+									</beam>
+									<note dots="0" dur="8" oct="5" pname="f"/>
+									<note dots="0" dur="4" oct="5" pname="f"/>
+									<note dots="0" dur="8" oct="5" pname="f"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_c93c6962-c002-486c-81ad-962c27326eb6" label="3" n="3" xml:id="staff_34ed8a70-bfbe-4d8b-a01c-98bae436f177">
 								<layer/>
