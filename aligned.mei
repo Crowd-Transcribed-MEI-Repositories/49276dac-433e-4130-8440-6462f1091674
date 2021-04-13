@@ -196,6 +196,7 @@
 						</measure>
 						<scoreDef>
 							<staffGrp>
+								<staffDef n="3"/>
 								<staffDef n="1"/>
 							</staffGrp>
 						</scoreDef>
