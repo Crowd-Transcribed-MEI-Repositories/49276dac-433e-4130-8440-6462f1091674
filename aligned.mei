@@ -400,7 +400,20 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_c93c6962-c002-486c-81ad-962c27326eb6" label="3" n="3" xml:id="staff_34ed8a70-bfbe-4d8b-a01c-98bae436f177">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="8"/>
+									<beam>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+									</beam>
+									<beam>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+									</beam>
+								</layer>
 							</staff>
 							<staff facs="#zone_b9abbbfb-4bf7-435c-9821-94dca165b96b" label="4" n="4" xml:id="staff_459de246-251c-41f3-a589-02a6bfe49913">
 								<layer/>
