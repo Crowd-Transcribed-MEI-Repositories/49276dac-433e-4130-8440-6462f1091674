@@ -288,6 +288,11 @@
 								<layer/>
 							</staff>
 						</measure>
+						<scoreDef>
+							<staffGrp>
+								<staffDef n="1"/>
+							</staffGrp>
+						</scoreDef>
 						<measure label="6" n="6" xml:id="measure_44d8c21a-5fba-45a0-9fab-ac5c6523e288">
 							<staff facs="#zone_c8463ded-5e21-42ab-bef4-25d88ae398e3" label="1" n="1" xml:id="staff_4d68dcb3-8fcb-4ed7-8eb9-0288102594b0">
 								<layer/>
