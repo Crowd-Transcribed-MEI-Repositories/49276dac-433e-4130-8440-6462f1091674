@@ -323,6 +323,11 @@
 								<layer/>
 							</staff>
 						</measure>
+						<scoreDef>
+							<staffGrp>
+								<staffDef n="1"/>
+							</staffGrp>
+						</scoreDef>
 						<measure label="7" n="7" xml:id="measure_ab812004-8883-4cf5-b301-ef077a076780">
 							<staff facs="#zone_8ccb838c-2a46-4d73-a1f9-30fa3292f102" label="1" n="1" xml:id="staff_e8000e48-6cf1-47d7-9a0f-75d2f60979ba">
 								<layer/>
