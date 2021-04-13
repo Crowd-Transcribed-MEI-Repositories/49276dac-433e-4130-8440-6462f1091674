@@ -536,13 +536,13 @@
 								<layer>
 									<rest dots="0" dur="8"/>
 									<beam>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="b"/>
+										<note dots="0" dur="8" oct="5" pname="a"/>
+										<note dots="0" dur="8" oct="5" pname="g"/>
 									</beam>
-									<note dots="0" dur="8" oct="5" pname="f"/>
-									<note dots="0" dur="4" oct="5" pname="f"/>
-									<note dots="0" dur="8" oct="5" pname="f"/>
+									<note dots="0" dur="8" oct="5" pname="g"/>
+									<note dots="0" dur="4" oct="5" pname="g"/>
+									<note dots="0" dur="8" oct="5" pname="g"/>
 								</layer>
 							</staff>
 						</measure>
