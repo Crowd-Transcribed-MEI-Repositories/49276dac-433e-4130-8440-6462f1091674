@@ -223,6 +223,12 @@
 							<staff facs="#zone_51ee7c1b-4978-410a-ab5f-67300cedef68" label="6" n="6" xml:id="staff_d079356c-0ba1-41b7-8f34-a7927dc6769d">
 								<layer>
 									<clef line="2" shape="G"/>
+									<note dots="0" dur="4" oct="5" pname="f"/>
+									<beam>
+										<note dots="1" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="16" oct="5" pname="f"/>
+									</beam>
+									<note dots="0" dur="2" oct="5" pname="f"/>
 								</layer>
 							</staff>
 						</measure>
