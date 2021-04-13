@@ -683,7 +683,9 @@
 								<layer/>
 							</staff>
 							<staff facs="#zone_86bc22fd-3081-451c-9af0-f15198aeb3cf" label="6" n="6" xml:id="staff_3b54515c-b65b-4381-b336-49182d75d36c">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="1"/>
+								</layer>
 							</staff>
 						</measure>
 						<sb/>
