@@ -428,12 +428,12 @@
 								<layer>
 									<rest dots="0" dur="8"/>
 									<beam>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="c"/>
+										<note dots="0" dur="8" oct="5" pname="d"/>
+										<note dots="0" dur="8" oct="5" pname="e"/>
 									</beam>
 									<beam>
-										<note dots="1" dur="8" oct="5" pname="f"/>
+										<note dots="1" dur="8" oct="5" pname="e"/>
 										<note dots="0" dur="16" oct="5" pname="f"/>
 									</beam>
 									<note dots="0" dur="4" oct="5" pname="f"/>
