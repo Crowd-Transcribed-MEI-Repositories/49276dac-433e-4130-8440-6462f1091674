@@ -340,7 +340,17 @@
 						</scoreDef>
 						<measure label="5" n="5" xml:id="measure_7f5758d1-e977-4189-8688-92f612d36f4e">
 							<staff facs="#zone_4b309f12-045c-4960-ac99-2c1aa837a332" label="1" n="1" xml:id="staff_243b62c1-5b2b-4b2c-a1e8-734f364a4c67">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="8"/>
+									<beam>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+									</beam>
+									<note dots="0" dur="8" oct="5" pname="f"/>
+									<note dots="0" dur="4" oct="5" pname="f"/>
+									<note dots="0" dur="8" oct="5" pname="f"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_05b34a62-7f58-4d7d-ac69-6f5f4fb1fb16" label="2" n="2" xml:id="staff_94bb0ec3-f50c-4e38-bc54-60a374879ed8">
 								<layer/>
