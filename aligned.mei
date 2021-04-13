@@ -243,7 +243,15 @@
 								<layer/>
 							</staff>
 							<staff facs="#zone_bdd8a567-66c8-41ee-9872-317c2bcc1f20" label="2" n="2" xml:id="staff_464be95c-0a1c-4090-85fd-4d6cad33a432">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="8"/>
+									<beam>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+									</beam>
+									<note dots="0" dur="2" oct="5" pname="f"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_acbb112f-7f65-4994-b758-f3668433f3b8" label="3" n="3" xml:id="staff_daec31e2-8e96-4f28-b752-fab828f9e2ad">
 								<layer/>
